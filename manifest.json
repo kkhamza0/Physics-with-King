@@ -1,17 +1,24 @@
+
 {
   "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
   "name": "Physics with King",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/Physics-with-King/",
   "short_name": "Physics King",
-  "start_url": "/",
+  "start_url": "/Physics-with-King/",
   "theme_color": "#284eaa",
-  "id": "physics-with-king",
+  "id": "/Physics-with-King/",
   "description": "Grade 9 Physics MCQs, online tests, student results and teacher dashboard.",
   "lang": "en",
-  "categories": [
-    "education"
+  "categories": ["education"],
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
   ]
 }
