@@ -1,0 +1,17 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Physics with King",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Physics King",
+  "start_url": "/",
+  "theme_color": "#284eaa",
+  "id": "physics-with-king",
+  "description": "Grade 9 Physics MCQs, online tests, student results and teacher dashboard.",
+  "lang": "en",
+  "categories": [
+    "education"
+  ]
+}
